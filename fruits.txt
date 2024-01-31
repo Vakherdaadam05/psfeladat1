@@ -1,4 +1,8 @@
 alma
 körte
+<<<<<<< HEAD
 szilva
 málna
+=======
+banán
+>>>>>>> 750ea0c3d9d0797a2c2d54dda8a31d81bb1aa575
